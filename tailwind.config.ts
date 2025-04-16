@@ -52,14 +52,16 @@ export default {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))'
         },
-        navy: "#1a1f2c",
-        lightNavy: "#2c3347",
-        lightestNavy: "#363b4d",
-        slate: "#8892b0",
-        lightSlate: "#a8b2d1",
-        lightestSlate: "#ccd6f6",
-        white: "#e6f1ff",
-        highlight: "#9b87f5"
+        navy: "#0D1321",
+        lightNavy: "#1D3461",
+        lightestNavy: "#376996",
+        slate: "#627D98",
+        lightSlate: "#8BA6B9",
+        lightestSlate: "#B8CDDF",
+        white: "#F0F4F8",
+        highlight: "#33C3F0",
+        accent1: "#F97316",
+        accent2: "#8B5CF6"
       },
       borderRadius: {
         lg: 'var(--radius)',
