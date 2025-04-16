@@ -52,24 +52,14 @@ export default {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))'
         },
-        sidebar: {
-          DEFAULT: 'hsl(var(--sidebar-background))',
-          foreground: 'hsl(var(--sidebar-foreground))',
-          primary: 'hsl(var(--sidebar-primary))',
-          'primary-foreground': 'hsl(var(--sidebar-primary-foreground))',
-          accent: 'hsl(var(--sidebar-accent))',
-          'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
-          border: 'hsl(var(--sidebar-border))',
-          ring: 'hsl(var(--sidebar-ring))'
-        },
-        navy: "#0A192F",
-        lightNavy: "#112240",
-        lightestNavy: "#233554",
-        slate: "#8892B0",
-        lightSlate: "#A8B2D1",
-        lightestSlate: "#CCD6F6",
-        white: "#E6F1FF",
-        highlight: "#64FFDA"
+        navy: "#1a1f2c",
+        lightNavy: "#2c3347",
+        lightestNavy: "#363b4d",
+        slate: "#8892b0",
+        lightSlate: "#a8b2d1",
+        lightestSlate: "#ccd6f6",
+        white: "#e6f1ff",
+        highlight: "#9b87f5"
       },
       borderRadius: {
         lg: 'var(--radius)',
