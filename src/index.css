@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500;600&display=swap');
 
 @tailwind base;
@@ -6,13 +7,13 @@
 
 @layer base {
   :root {
-    --background: 209 64% 12%; // Deep blue background
-    --foreground: 210 20% 98%; // Light text
-    --primary: 198 89% 48%; // Bright Ocean Blue
+    --background: 209 64% 12%; /* Deep blue background */
+    --foreground: 210 20% 98%; /* Light text */
+    --primary: 198 89% 48%; /* Bright Ocean Blue */
     --primary-foreground: 210 20% 98%;
-    --secondary: 26 94% 50%; // Bright Orange
+    --secondary: 26 94% 50%; /* Bright Orange */
     --secondary-foreground: 210 20% 98%;
-    --highlight: 271 78% 62%; // Vivid Purple
+    --highlight: 271 78% 62%; /* Vivid Purple */
     --highlight-foreground: 210 20% 98%;
 
     --border: 209 64% 20%;
